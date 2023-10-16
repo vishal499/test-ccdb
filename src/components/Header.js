@@ -9,7 +9,7 @@ const Header = () => {
             <input type="search" placeholder="Search Courses..."/>
         </span>
         <span>
-            <p>Username</p>
+            <p>Passwrd</p>
         </span>
     </header>
   </>
